@@ -3,10 +3,6 @@ body{
     margin: 0;
     font-family: 'Montserrat', sans-serif;
 }
-.header-area01 img{
-   display: block;
-}
-
 .header-section{
     display: flex;
 }
