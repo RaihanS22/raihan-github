@@ -58,11 +58,43 @@ body{
 }
 .middle-area01{
     width: 50%;
+    margin-left: 10px;
 }
 .middle-area02{
     width: 50%;
+    margin-left: 10%;
+    position: relative;
 }
 .middle-area01 img{
-    width: 76%;
+    width: 85%;
     margin-left: 11%;
 }
+h1{
+    font-size: 50px;
+}
+.middle-area02 p{
+    width: 92%;
+}
+
+.middle-area02 img{
+    display: block;
+    position: absolute;
+    top: 40%;
+    bottom: 0;
+    right: 0;
+}
+.middle-area02 a{
+    display: block;
+    width: 30%; 
+    text-decoration: none;
+    color: #fff;
+    background-color: rgb(255, 0, 132);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid rgb(255, 0, 132);
+    border-radius: 3px;
+}
+
+
+
