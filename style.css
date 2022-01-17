@@ -51,6 +51,18 @@ body{
     padding-bottom: 10px;
     border: 1px solid rgb(255, 0, 132);
     border-radius: 3px;
-
-
+}
+.middle-section{
+    display: flex;
+    margin-top: 10%;
+}
+.middle-area01{
+    width: 50%;
+}
+.middle-area02{
+    width: 50%;
+}
+.middle-area01 img{
+    width: 76%;
+    margin-left: 11%;
 }
