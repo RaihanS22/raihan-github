@@ -3,11 +3,15 @@ body{
     margin: 0;
     font-family: 'Montserrat', sans-serif;
 }
+.header-area01 img{
+   display: block;
+}
 
 .header-section{
     display: flex;
 }
 .header-area01{
+    background-image: url("images/top-banner.png");
     width: 50%; 
 }
 .header-area02{
